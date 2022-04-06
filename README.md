@@ -20,4 +20,6 @@ In this project, I am making a model which can classify fake news and real news 
 
 * The model was about to classify the news with an accuracy of around 94%
 
+## Look for the data set [here](https://drive.google.com/drive/folders/1_3dXHmZUSEWCMJOiWziJSRzvxBKhHS-c?usp=sharing)
+
 (The Dataset does not belong to me) 
